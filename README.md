@@ -1,4 +1,4 @@
-# Basketball-Simulator
+# BasketballSimulator-Text
 Simple text-based basketball game simulator.
 
 Includes customizable game settings (quarters/halves, game time, average scoring rate). I haven't gotten around to implementing team settings yet.
