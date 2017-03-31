@@ -1,6 +1,6 @@
 # Basketball-Simulator
 Simple text-based basketball game simulator.
 
-I'm planning on moving this to a UI eventually, but here is a text-based version.
+A similar project with a UI can be found here: https://github.com/colepetersen22/BasketballSimulator
 
 Includes customizable game settings (quarters/halves, game time, average scoring rate). I haven't gotten around to implementing team settings yet.
